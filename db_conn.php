@@ -1,8 +1,8 @@
 <?php
 $sname= "localhost";
-$unmae= "mehrnaz_meni";
-$password = "RtYe9ezhm3bp";
-$db_name = "mehrnaz_mernaz";
+$unmae= "db_user_name";
+$password = "db user passs";
+$db_name = "db name";
 
 $conn = mysqli_connect($sname, $unmae, $password, $db_name);
 
